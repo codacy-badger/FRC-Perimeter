@@ -32,8 +32,8 @@ public class App extends Application {
         xAxis.setOpacity(0);
         yAxis.setOpacity(0);
         sc.setTitle("v0.1 Pre Alpha");
-        sc.setMinSize(400,400);
-        sc.setMaxSize(400,400);
+        sc.setMinSize(216*2,216*2);
+        sc.setMaxSize(216*2,216*2);
 
         XYChart.Series currentPos   = new XYChart.Series();
         currentPos.setName("Position");
@@ -84,7 +84,7 @@ public class App extends Application {
 
         ((Group)scene.getRoot()).getChildren().add(vbox);
         stage.setScene(scene);
-        stage.setWidth(450);
+        stage.setWidth(475);
         stage.setHeight(500);
         stage.setX(0);
         stage.setY(0);
