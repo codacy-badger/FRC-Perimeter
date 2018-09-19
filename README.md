@@ -1,1 +1,1 @@
-# FRC-Perimeter
+# FRC-Perimeter [![Build Status](https://travis-ci.org/H1ppx/FRC-Perimeter.svg?branch=master)](https://travis-ci.org/H1ppx/FRC-Perimeter)
