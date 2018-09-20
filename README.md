@@ -1,1 +1,1 @@
-# FRC-Perimeter [![Build Status](https://travis-ci.org/H1ppx/FRC-Perimeter.svg?branch=master)](https://travis-ci.org/H1ppx/FRC-Perimeter)
+# FRC-Perimeter [![Build Status](https://travis-ci.org/H1ppx/FRC-Perimeter.svg?branch=master)](https://travis-ci.org/H1ppx/FRC-Perimeter) [![CodeFactor](https://www.codefactor.io/repository/github/h1ppx/frc-perimeter/badge/master)](https://www.codefactor.io/repository/github/h1ppx/frc-perimeter/overview/master)
